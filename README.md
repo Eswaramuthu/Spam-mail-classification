@@ -11,6 +11,3 @@
 <li>Streamlit</li>
 </ul>
 
-<h2>How to execute the project </h2>
-
-<p> </p>
